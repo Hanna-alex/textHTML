@@ -68,6 +68,7 @@ img {
   border-radius: 20px;
   overflow: hidden;
   margin-right: 2rem;
+  filter: sepia(0.5);
 }
 
 .part__info {
